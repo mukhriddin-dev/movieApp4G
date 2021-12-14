@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.bg{
+    background-color: crimson;
+}
+
+.brand{
+    position: relative;
+    left: 2rem;
+}
+
+
+
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 56px;
+    background-color: crimson;
+    color: white;
+}
+
+
+
+.main{
+    width: 100%;
+    min-height: 81.8vh;
+}
+
+
+
+.films{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+
+.item{
+    width: 260px;
+}
+
+
+
+
+.bt{
+    position: relative;
+    top: 22px;
+}
